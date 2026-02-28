@@ -3,15 +3,8 @@
 
 ## 📊 Статистика
 
-    [!][(https://github-readme-activity-graph.vercel.app/graph?username=kristinkashelest&theme=default&range=year&border=2&width=700&height=450&area=true)(https://github.com/kristinkashelest)]
+![](https://github-readme-activity-graph.vercel.app/graph?username=kristinkashelest&theme=default&range=year&border=2&width=700&height=450&area=true)(https://github.com/kristinkashelest)
 
-    
-<!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
-<!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
-
-
-
-<!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
 
 <br>
 
