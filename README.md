@@ -3,7 +3,7 @@
 
 ## 📊 Статистика
 
-    [![My Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kristina&theme=default&range=year&border=2&width=700&height=450&area=true)](https://github.com/kristinkashelest)
+    [!][(https://github-readme-activity-graph.vercel.app/graph?username=Kristina&theme=default&range=year&border=2&width=700&height=450&area=true)(https://github.com/kristinkashelest)]
 
     
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
