@@ -51,7 +51,6 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" title="Mongo DB" alt="Mongo DB" width="40" height="40"/>&nbsp
   <img src="https://cdn.worldvectorlogo.com/logos/metabase.svg" title="Metabase" alt="Metabase" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/512px-DBeaver_logo.svg.png" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp
 </div>
 
 
@@ -63,8 +62,8 @@
 
 
 ## 🎒 Образование
-[<img src="/diploma-with-number_ru.png" width="280px" hspace="10px" alt="Диплом»">](https://github.com/kristinkashelest/Kristina_S/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82.pdf)
-[<img src="/Letter12.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://github.com/kristinkashelest/Kristina_S/blob/main/2_5393572771575919276.pdf)
+[<img src="/diploma-with-number_ru.png" width="280px" hspace="10px" alt="Диплом»">](hhttps://github.com/kristinkashelest/Kristina_S/blob/main/file-001.png)
+[<img src="/Letter12.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://github.com/kristinkashelest/Kristina_S/blob/main/file-002.png)
 
 <br>
 <br>
