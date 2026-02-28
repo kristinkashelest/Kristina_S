@@ -62,8 +62,8 @@
 
 
 ## 🎒 Образование
-[<img src="/diploma-with-number_ru.png" width="280px" hspace="10px" alt="Диплом»">](hhttps://github.com/kristinkashelest/Kristina_S/blob/main/file-001.png)
-[<img src="/Letter12.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://github.com/kristinkashelest/Kristina_S/blob/main/file-002.png)
+[<img src="/file-001.png" width="280px" hspace="10px" alt="Диплом»">](hhttps://github.com/kristinkashelest/Kristina_S/blob/main/file-001.png)
+[<img src="/file-002.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://github.com/kristinkashelest/Kristina_S/blob/main/file-002.png)
 
 <br>
 <br>
