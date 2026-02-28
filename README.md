@@ -3,7 +3,7 @@
 
 ## 📊 Статистика
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Kristinkashelest&theme=default&range=year&border=2&width=700&height=450&area=true)(https://github.com/kristinkashelest)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Kristinkashelest&theme=default&range=year&border=2&width=700&height=450&area=true)
 
 
 <br>
